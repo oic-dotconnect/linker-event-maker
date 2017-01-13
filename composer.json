@@ -1,0 +1,13 @@
+{
+    "name": "user/linker-mockdate-maker",
+    "authors": [
+        {
+            "name": "44x1carbon",
+            "email": "b4079@oic.jp"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.2",
+        "illuminate/http": "^5.3"
+    }
+}
